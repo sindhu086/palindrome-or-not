@@ -1,4 +1,3 @@
-# palindrome-or-not
 #include<stdio.h>
 int main()
 printf("enter the number in pa:");
